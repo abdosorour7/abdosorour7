@@ -1,49 +1,48 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,100:1a1f2e&text=Abdulrahman%20Sorour&fontSize=42&fontColor=c9d1d9&fontAlign=50&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Flutter%20Developer&descSize=16&descFontColor=8b949e&descAlign=50&descAlignY=58&section=header" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=0,2,2,5,30&text=Abdulrahman%20Sorour&fontSize=40&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Flutter%20Developer&descSize=15&descFontColor=aaaaaa&descAlign=50&descAlignY=57&section=header&animation=fadeIn" />
 
 <br/>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+cross-platform+mobile+apps+%F0%9F%93%B1;Flutter+%26+Dart+enthusiast;Always+learning%2C+always+shipping+%F0%9F%9A%80;Open+to+collaborate+on+cool+projects" alt="Typing SVG" />
-  </a>
-</div>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=480&lines=Flutter+%26+Dart+Developer+%F0%9F%93%B1;Building+cross-platform+mobile+apps;Curious+to+try+all+new things;Always+learning%2C+always+developing+%F0%9F%9A%80;Open+to+collaborate+on+cool+projects+%F0%9F%A4%9D" alt="Typing SVG" />
+</a>
 
-<br/>
+<br/><br/>
+
+</div>
 
 ---
 
-### `$ whoami`
+### 🙋🏻‍♂️ Who Am I?
 
 ```dart
-const developer = {
-  name: "Abdulrahman Sorour",
-  role: "Software Engineering Student",
-  location: "Egypt 🇪🇬",
-  focus: ["Flutter", "Mobile Development", "Clean Architecture"],
-  currentlyBuilding: "Something cool... 👀",
-  funFact: "I debug with print() and I'm not ashamed of it.",
-};
+const dev = Developer(
+  name: 'Abdulrahman Sorour',
+  role: 'Software Engineer',
+  location: 'Egypt 🇪🇬',
+  focus: ['Flutter', 'Dart', 'Mobile Development'],
+  funFact: 'Sometimes, I debug with print() and I am not ashamed.',
+);
 ```
 
 ---
 
-### `$ cat about_me.txt`
+### 👨‍💻 About Me
 
 - 🎓 &nbsp; Software Engineering student with a passion for **mobile-first** experiences
 - 📱 &nbsp; I love turning designs into smooth, pixel-perfect Flutter apps
+- 🎨 &nbsp; I also dabble in **UI design** with **Figma**.
+- 🖌️&nbsp; Graphic Designer and **Instructor** Working on Photoshop, Illustrator & After Effects
 - 🌍 &nbsp; Based in **Egypt**, building for the world
-- 🎧 &nbsp; I code better with lo-fi beats in the background
+- 🎧 &nbsp; Headphones on + coffee = productive coding session
 - ☕ &nbsp; Fueled by coffee and curiosity
 - 🧩 &nbsp; I enjoy breaking down complex problems into elegant solutions
-- 🤝 &nbsp; Always open to connecting with devs who love what they build
+- 🤝 &nbsp; Always open to connecting and collaborating with devs who love what they build
 
 ---
 
-### `$ ls skills/`
+### 🛠️ Tech Stack
 
 <div align="center">
 
@@ -67,40 +66,28 @@ const developer = {
 
 ---
 
-### `$ cat currently_learning.log`
+<!-- ### 📚 Currently Learning
 
 ```
-[INFO]  Deepening Flutter state management → Bloc & Riverpod
-[INFO]  Exploring Clean Architecture & SOLID in mobile apps
-[INFO]  Getting comfortable with REST APIs & backend integration
-[INFO]  Dipping into UI/UX principles to build better products
-[NEXT]  Backend with Node.js or Supabase... stay tuned 👀
-```
+▸ Flutter State Management  →  Bloc & Riverpod
+▸ Clean Architecture        →  SOLID principles in mobile
+▸ REST APIs                 →  Backend integration
+▸ UI/UX Design              →  Better product thinking
+▸ Coming soon               →  Supabase / Node.js 👀
+``` -->
 
 ---
 
-### `$ git log --stats`
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdosorour7&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" height="165" />
-  <img src="https://streak-stats.demolab.com?user=abdosorour7&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="165" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdosorour7&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdosorour7&show_icons=true&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" height="160" />
+  <img src="https://streak-stats.demolab.com?user=abdosorour7&theme=midnight-purple&hide_border=false&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" height="160" />
 </div>
 
 ---
 
-### `$ cat activity.svg`
-
-<div align="center">
-  <img src="https://github-profile-activity-graph.vercel.app/graph?username=abdosorour7&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
-</div>
-
----
-
-### `$ ./snake_game`
+### 🐍 Contribution Graph
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/abdosorour7/abdosorour7/output/snake.svg" alt="Snake animation" />
@@ -108,7 +95,7 @@ const developer = {
 
 ---
 
-### `$ ping abdosorour7`
+### 📩 Find Me On
 
 <div align="center">
 
@@ -120,5 +107,5 @@ const developer = {
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1a1f2e,100:0d1117&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=0,2,2,55,30&section=footer" />
 </div>
