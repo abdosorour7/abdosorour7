@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=0,2,2,5,30&text=Abdulrahman%20Sorour&fontSize=40&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Flutter%20Developer&descSize=15&descFontColor=aaaaaa&descAlign=50&descAlignY=57&section=header&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:2d1b69,100:9b59b6&text=Abdulrahman%20Sorour&fontSize=40&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Flutter%20Developer&descSize=15&descFontColor=aaaaaa&descAlign=50&descAlignY=57&section=header&animation=fadeIn" />
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=480&lines=Flutter+%26+Dart+Developer+%F0%9F%93%B1;Building+cross-platform+mobile+apps;Curious+to+try+all+new+things;Always+learning%2C+always+developing+%F0%9F%9A%80;Open+to+collaborate+on+cool+projects+%F0%9F%A4%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=BD93F9&center=true&vCenter=true&width=480&lines=Flutter+%26+Dart+Developer+%F0%9F%93%B1;Building+cross-platform+mobile+apps;Curious+to+try+all+new+things;Always+learning%2C+always+developing+%F0%9F%9A%80;Open+to+collaborate+on+cool+projects+%F0%9F%A4%9D" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -52,15 +52,15 @@ const dev = Developer(
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,java,r,python,cs,js&theme=dark" />
 
 **Web & Tools**
 
-<img src="https://skillicons.dev/icons?i=html,css,git,github,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,git,github,arduino&theme=dark" />
 
 **Design**
 
-<img src="https://skillicons.dev/icons?i=ps,illustrator,ae&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ps,figma,illustrator,ae&theme=dark" />
 
 </div>
 
@@ -81,8 +81,8 @@ const dev = Developer(
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdosorour7&show_icons=true&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" height="160" />
-  <img src="https://streak-stats.demolab.com?user=abdosorour7&theme=midnight-purple&hide_border=false&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdosorour7&show_icons=true&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" height="160" />
+  <img src="https://streak-stats.demolab.com?user=abdosorour7&theme=midnight-purple&hide_border=false" height="160" />
 </div>
 
 ---
@@ -107,5 +107,5 @@ const dev = Developer(
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=0,2,2,55,30&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:9b59b6,50:2d1b69,100:0d1117&section=footer" />
 </div>
