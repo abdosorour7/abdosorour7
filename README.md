@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=BD93F9&center=true&vCenter=true&width=480&lines=Flutter+%26+Dart+Developer+%F0%9F%93%B1;Building+cross-platform+mobile+apps;Curious+to+try+all+new+things;Always+learning%2C+always+developing+%F0%9F%9A%80;Open+to+collaborate+on+cool+projects+%F0%9F%A4%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=BD93F9&center=true&vCenter=true&width=480&lines=Flutter+%26+Dart+Developer+%F0%9F%93%B1;Building+cross-platform+mobile+apps;Curious+to+try+any+new+things;Always+learning%2C+always+developing+%F0%9F%9A%80;Open+to+collaborate+on+cool+projects+%F0%9F%A4%9D;For+sure%2C+a+problem+solver!" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -56,11 +56,11 @@ const dev = Developer(
 
 **Web & Tools**
 
-<img src="https://skillicons.dev/icons?i=html,css,git,github,arduino&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,git,github,supabase,arduino,wordpress&theme=dark" />
 
 **Design**
 
-<img src="https://skillicons.dev/icons?i=ps,figma,illustrator,ae&theme=dark" />
+<img src="https://skillicons.dev/icons?i=figma,ps,illustrator,ae,au&theme=dark" />
 
 </div>
 
@@ -102,7 +102,6 @@ const dev = Developer(
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahman-sorour/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdosorour7@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/sorix.7)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/3bdo_sorour/)
 
 </div>
 
