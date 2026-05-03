@@ -81,7 +81,9 @@ const dev = Developer(
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdosorour7&show_icons=true&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats-gold-one-68.vercel.app/api?username=abdosorour7&show_icons=true&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" height="160" />
+
+
   <img src="https://streak-stats.demolab.com?user=abdosorour7&theme=midnight-purple&hide_border=false" height="160" />
 </div>
 
